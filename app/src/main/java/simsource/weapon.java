@@ -1,6 +1,6 @@
 package simsource;
 
-import javax.swing.SingleSelectionModel;
+//import javax.swing.SingleSelectionModel;
 
 public class weapon {
     private double speed;
