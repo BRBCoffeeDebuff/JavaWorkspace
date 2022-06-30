@@ -1,5 +1,5 @@
 package simsource;
 
-public class player {
+public class attributes {
     
 }
